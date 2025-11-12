@@ -136,12 +136,13 @@ celerybeat.pid
 
 # Environments
 .env
+.deeplnenv
+deeplnenv/
 .envrc
 .venv
 env/
 venv/
 ENV/
-deeplen/
 env.bak/
 venv.bak/
 
