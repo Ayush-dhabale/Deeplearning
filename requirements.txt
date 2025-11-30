@@ -6,3 +6,4 @@ seaborn
 mlxtend
 tensorflow
 torch
+keras-tuner
