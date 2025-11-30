@@ -226,3 +226,5 @@ __marimo__/
 # (Optional) Ignore temporary Excel-related files
 ~$*.xls*
 
+#tunner files
+my_dir/
