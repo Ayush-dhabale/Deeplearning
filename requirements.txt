@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlxtend
+tensorflow
+torch
+keras-tuner
+split-folders
