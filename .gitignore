@@ -236,7 +236,8 @@ tuner_dir/
 
 #data
 notebooks/CNNs/data/
-notrebooks/CNNs/output/
+notebooks/CNNs/output/
+notebooks/CNNs/preview/
 
 #Zip
 *.zip
