@@ -8,3 +8,5 @@ tensorflow
 torch
 keras-tuner
 split-folders
+pydot
+graphviz
